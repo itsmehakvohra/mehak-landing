@@ -12,7 +12,7 @@ export default function Home() {
         I&rsquo;m the CEO of{" "}
         <a
           href="https://clickbaitlabs.ai"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Clickbait Labs
         </a>
@@ -33,7 +33,7 @@ export default function Home() {
           href="https://www.forbes.com/sites/frederickdaso/2022/07/25/a-college-dropout-raises-15m-to-empower-service-workers-to-become-marketers/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Skillbank
         </a>
@@ -43,7 +43,7 @@ export default function Home() {
           href="https://www.favorited.com/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Favorited
         </a>{" "}
@@ -56,7 +56,7 @@ export default function Home() {
           href="https://ngl.link/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           NGL
         </a>
@@ -65,7 +65,7 @@ export default function Home() {
           href="https://www.hellothea.ai/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Thea
         </a>
@@ -74,7 +74,7 @@ export default function Home() {
           href="https://www.favorited.com/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Favorited
         </a>
@@ -83,7 +83,7 @@ export default function Home() {
           href="https://giant.org/"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           Giant
         </a>
@@ -96,7 +96,7 @@ export default function Home() {
           href="https://soundcloud.com/mehvk"
           target="_blank"
           rel="noreferrer noopener"
-          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+          className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
           DJ
         </a>

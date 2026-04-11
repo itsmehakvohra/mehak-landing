@@ -29,7 +29,7 @@ export default function Thoughts() {
                 {post.date}
               </span>
               <span className="flex flex-col">
-                <span className="w-fit font-medium bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity group-hover:opacity-80">
+                <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
                   {post.title}
                 </span>
                 <span className="text-sm text-muted">{post.excerpt}</span>

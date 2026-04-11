@@ -32,7 +32,7 @@ export default function Features() {
                   {f.date}
                 </span>
                 <span className="flex flex-col">
-                  <span className="w-fit font-medium bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity group-hover:opacity-80">
+                  <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
                     {f.title}
                   </span>
                   <span className="text-sm text-muted">{f.outlet}</span>

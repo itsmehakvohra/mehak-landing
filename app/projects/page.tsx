@@ -20,7 +20,7 @@ export default function Projects() {
             rel="noreferrer noopener"
             className="group flex flex-col gap-1"
           >
-            <span className="w-fit font-medium bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity group-hover:opacity-80">
+            <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
               Clickbait Labs
             </span>
             <span className="text-sm text-muted">
@@ -35,7 +35,7 @@ export default function Projects() {
             rel="noreferrer noopener"
             className="group flex flex-col gap-1"
           >
-            <span className="w-fit font-medium bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity group-hover:opacity-80">
+            <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
               Vibe Check
             </span>
             <span className="text-sm text-muted">
@@ -50,7 +50,7 @@ export default function Projects() {
             rel="noreferrer noopener"
             className="group flex flex-col gap-1"
           >
-            <span className="w-fit font-medium bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity group-hover:opacity-80">
+            <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
               Plink
             </span>
             <span className="text-sm text-muted">
