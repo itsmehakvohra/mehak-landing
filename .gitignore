@@ -39,6 +39,9 @@ yarn-error.log*
 # claude code local config
 .claude/
 
+# local source for signature asset (processed output lives in public/)
+signature-raw.png
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <article className="flex flex-col gap-5 text-[15px] leading-7 text-foreground">
@@ -104,9 +106,14 @@ export default function Home() {
         chaotic role.
       </p>
 
-      <p className="mt-2 font-serif text-2xl italic text-foreground">
-        <span className="bg-[#d2ff1f] px-1">~M</span>
-      </p>
+      <Image
+        src="/mehak-signature.png"
+        alt="Mehak Vohra signature"
+        width={587}
+        height={338}
+        priority
+        className="mt-2 h-auto w-40"
+      />
     </article>
   );
 }
