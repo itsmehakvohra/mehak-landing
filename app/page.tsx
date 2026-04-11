@@ -91,8 +91,17 @@ export default function Home() {
       </p>
 
       <p>
-        I&rsquo;m also a labradoodle mom, which is easily my most chaotic
-        role.
+        I rock climb,{" "}
+        <a
+          href="https://soundcloud.com/mehvk"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="bg-[#d2ff1f] box-decoration-clone px-1 text-foreground transition-opacity hover:opacity-80"
+        >
+          DJ
+        </a>
+        , play too much poker, and am a labradoodle mom&mdash;easily my most
+        chaotic role.
       </p>
 
       <p className="mt-2 font-serif text-2xl italic text-foreground">
