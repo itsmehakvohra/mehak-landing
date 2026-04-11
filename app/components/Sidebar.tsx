@@ -7,6 +7,7 @@ const nav = [
   { href: "/", label: "Home" },
   { href: "/thoughts", label: "Thoughts" },
   { href: "/projects", label: "Projects" },
+  { href: "/features", label: "Features" },
 ];
 
 export default function Sidebar() {
