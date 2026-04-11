@@ -3,6 +3,7 @@ const links = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/mehakvohra/" },
   { label: "X", href: "https://x.com/itsmehakvohra" },
   { label: "Instagram", href: "https://www.instagram.com/itsmehakvohra/" },
+  { label: "Vibe Check", href: "https://www.vibecheckme.com/mehak" },
 ];
 
 export default function SocialFooter() {
