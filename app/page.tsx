@@ -11,16 +11,15 @@ export default function Home() {
       </header>
 
       <p>
-        I&rsquo;m the CEO of{" "}
+        I&rsquo;m building{" "}
         <a
-          href="https://clickbaitlabs.ai"
+          href="https://humanpost.com"
           className="font-semibold text-foreground transition-opacity hover:opacity-60"
         >
-          Clickbait Labs
+          HumanPost
         </a>
-        , where we&rsquo;re building distribution infrastructure for high
-        volume posting&mdash;letting apps and brands test organic content at
-        the scale of an ad campaign.
+        , a platform that helps apps and brands scale organic content through
+        a network of real people posting on TikTok and Instagram.
       </p>
 
       <p>

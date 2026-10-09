@@ -15,16 +15,16 @@ export default function Projects() {
       <ul className="flex flex-col gap-4">
         <li>
           <a
-            href="https://clickbaitlabs.ai"
+            href="https://humanpost.com"
             target="_blank"
             rel="noreferrer noopener"
             className="group flex flex-col gap-1"
           >
             <span className="font-semibold text-foreground transition-opacity group-hover:opacity-60">
-              Clickbait Labs
+              HumanPost
             </span>
             <span className="text-sm text-muted">
-              Distribution infrastructure for high volume posting.
+              What I&rsquo;m building now.
             </span>
           </a>
         </li>

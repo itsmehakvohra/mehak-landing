@@ -24,7 +24,7 @@ const instrumentSerif = Instrument_Serif({
 export const metadata: Metadata = {
   title: "Mehak Vohra",
   description:
-    "Mehak Vohra — CEO of Clickbait Labs. Helping apps and internet brands grow through short-form video.",
+    "Mehak Vohra — building HumanPost. Founder and content creator.",
 };
 
 export default function RootLayout({
